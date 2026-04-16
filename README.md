@@ -8,11 +8,6 @@ I'm interested in low-level programming — emulators, interpreters, compilers, 
 
 - **RISC-V Emulator** — a cycle-accurate RV32I emulator written in C#
 
-## Languages
-
-- C# — emulators, systems programming
-- Python — scripting, utilities
-- RISC-V Assembly
 
 ## What's next
 
